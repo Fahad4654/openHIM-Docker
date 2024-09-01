@@ -1,7 +1,7 @@
 # OpenHIM_Docker
 
 
-##Steps
+## Steps
 
 step-1:
 
@@ -24,7 +24,7 @@ step-5: browse to
         https://ip-address:9000
 
 
-##Resource: 
+## Resource: 
 Default credentials:
 
     user: root@openhim.org
