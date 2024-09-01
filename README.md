@@ -21,7 +21,7 @@ step-4: edit the default.json after starting the app.
 
 step-5: browse to 
 
-        https://ip-address:9000
+        http://ip-address:9000
 
 
 ## Resource: 
